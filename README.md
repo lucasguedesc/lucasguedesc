@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Lucas</h1>
-<h3 align="center">Sou um apaixonado por tecnologia, músico e marombeiro nas horas vagas</h3>
+<h3 align="center">Sou um apaixonado por tecnologia, sou músico e marombeiro nas horas vagas</h3>
 
 - 🌱 Atualmente estou aprendendo **Pyhton, SQL e iniciando inglês.**
 
